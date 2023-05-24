@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447302752878",
+    "project_id": "sistem-pakar-4e227",
+    "storage_bucket": "sistem-pakar-4e227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447302752878:android:8deae8dc0a2dc6f0d8a47f",
+        "android_client_info": {
+          "package_name": "com.example.diagnosa_console"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447302752878-ss9si83kvt80fjlaq690kob1rn5dho3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyimeJYW-Hz5cpdEhFZkot2FjyMwOF9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447302752878-ss9si83kvt80fjlaq690kob1rn5dho3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
